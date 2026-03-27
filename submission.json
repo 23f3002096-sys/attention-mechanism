@@ -1,0 +1,6 @@
+{
+  "prompt": "A densely crowded outdoor market, hundreds of people in motion. In the foreground, one person stands perfectly still, eyes intensely fixed on a single distant figure across the crowd. The focused person and their target are sharp and lit; everyone else in the crowd is motion-blurred, out of focus, fading into noise. Cinematic depth of field, photorealistic, warm afternoon light. No text, no labels, no diagrams. Negative prompt: text, labels, graphs, equations, annotations, digital overlay, arrows, glowing effects",
+  "model": "Ideogram 2",
+  "concept": "attention mechanism",
+  "metaphor": "One still figure locks eyes on a single face in a blurred crowd, mirroring how attention weights one token above all others."
+}
